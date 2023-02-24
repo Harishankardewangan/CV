@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(228, 236, 237); 
+}
+
+hr {
+   /* background-color: white; */
+  border-style: none;
+ 
+  width: 7%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+  border-color: white;
+ 
+}
+.profile_picture { width: 180px; height: 180px; }
+h1:hover {-ms-zoom-animation: default;}
+.profile_picture:hover {zoom: normal; }
+
+
+hr {
+   /* background-color: white; */
+  border-style: none;
+ 
+  width: 10%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+  border-color: rgb(86, 83, 83);
+ 
+}
+img {
+   height: 30%;
+   width: 30%;
+  }
+h1 {
+  color: #4dadad;
+}
+h3 {
+  color: #4dadad;
+  font-style: italic;
+}
